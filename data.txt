@@ -49,3 +49,118 @@ Kudos is an internal system we use to recognize team members for going above and
 To give a kudo to a team member, In the `#kudos` channel, use the following command:
 `/kudo give <team-member> <reason>`
 The bot will reply with a confirmation message.
+
+# Student Discord Setup Guide
+If a student is UNDER 13, they should NOT join discord
+Have the students create a discord account if they don’t have one
+Use the following link to invite them to the server https://discord.gg/VHS7WuJUrF
+Once they joined the server, they will be prompted to verify their phone number and email 
+if their #verify channel turns to #no access then they have successfully verified
+Have them log in to https://app.ai-camp.dev/dashboard/account
+Click on the Link Discord button, and they will be redirected to a log in page. 
+Login to complete the discord linking. If they don’t see the link discord option when they refresh the dashboard they are good to go. 
+If the complete the set up prior to camp, they should be added to the group on the first day on class. Check students in your channel with /class info <class name>
+Otherwise you will need to manually add the student /class add-student <class> <user>
+
+# Student Attendance Policy: Please remember, there's no cause for alarm if a student fails to attend class — that's their decision. Our internal team will handle the matter accordingly. Your responsibilities are simply to mark the student absent and bring the student up to speed upon their return. Work with your lead to figure out the easiest way to bring them up to speed if this occurs.
+It’s a good practice to wait five minutes for a student to appear before marking them absent.
+Suggestion: when you meet with your students you want to check with them to ensure their availability over the course of the summer camp. You will especially want to level set expectations as well as ask them to manage your expectations as well as their teams expectations with if their are any scheduled or last minute absences
+On the first day of camp, our AI Camp Summer Camp Support Team will check the roster if your student shows up. If the student is not there, the team will follow up and try to track that student down. They will also apprise you of the missing student and if there were any cancellations/changes/etc. It is also important that you follow up with the team in case you don’t hear back from them.
+Ultimately, the student will show up, or the student either cancelled or switched to another batch. We will notify you if that occurs
+
+# Your Roles
+Here is some information on how you can be leaders at AI Camp this summer and promote student success.
+Lead DSIs:
+Facilitate learning by leading lectures and organizing curriculum for team of DSIs to succeed.
+Cultivate an interactive, safe, and engaging learning environment 
+Lead by example by delivering a successful project with your team.
+DSIs:
+Lead your team to success on their project
+Cultivate an interactive, safe, and engaging learning environment 
+Share your knowledge and enthusiasm of AI topics with your students 
+
+# Tough Classroom Situations
+There are essentially two types of students that can cause issues.
+1. Struggling/Disengaged Student: ( Many times the struggle is because students are not comfortable in speaking up or asking questions. This often leads to disengagement. Your job is to provide a safe and fun environment to collaborate, interact and learn. Our job is definitely to challenge them but also challenge them in a way where if they don’t get it right the response still encourages them to try again)
+2. Disruptive Student:(Identify them early!!!! Disruptive students are the worst, especially if they have no intention of being here nor do they want to be here. It is not our job to convince them that this stuff is awesome!)
+
+# Three Strike Policy
+We will abide mostly to a 3 strike policy. The below outlines the basic guidelines.
+Strike One
+1. Ask them to stay after class for 5 minutes: let them know that because these are group projects it's critical that they cooperate/communicate / let others ask questions etc. a. If this is a struggling or disengaged student:
+a. They could be struggling because they are shy or the pace is too fast or they aren't quite getting it. Whatever the problem, be sure to listen to them and give them the space to tell their point of view.
+b. If the subject matter is definitely too hard. Then talk to your lead to see if it makes sense to transfer. It is best to do this early on than later.
+Remember when a student is struggling, versus the rest of their peers they feel alone.
+2. Ask if there is anything YOU can do to help. (e.g. change groups? ask more / less questions to them? Do You want to be here? if no, give refund)
+a. If this is a disruptive student, really ask if they want to be here. If not we are more than happy to refund and remove them. For these students notify your lead as well as
+@Richard Hsu, provide the situation and the context and we will reach out to the parent and student and bcc you.
+3. Tell them if it happens again, which you don't think will happen, you'll have to reach out to their guardians and let the team know (with the exception of the student that does not want to be here)
+Strike Two
+1. Notify @Richard Hsu of the situation and provide context
+2. We will reach out to the parent & student via email BCC-ing you with refund policy
+Strike Three
+1. The student will be asked to leave without a refund
+
+
+# If Students Have Vastly Different Skill Levels
+Students having different skill levels can be difficult but very beneficial for the team. A few strategies for managing this include:
+1. Assigning advanced students with explaining material to the group
+2. Pairing advanced students with learning students if they are good communicators
+3. Pairing advanced students together and letting them run with a task / more advanced implementation while spending more time with a pair who are working to understand
+
+# If There's Time To Fill (System Is Down, Students Went Through Quickly)
+1. Spend time adding details to the plan of the project. Identify an advanced feature that could enhance the final product e.g. connecting to an API like Twitter, pulling live data, adding more downloaded data, making a discord bot, make the website design better etc. and implementing them!
+2. There is a lot of interesting content that has been posted to both the #ai-news discord channel as well as the page below. Feel free to walk students through a cool recent Al tool / discovery or have them explore on their own.
+COOL AI Content
+
+# How To Gamify Camp And Facilitate An Engaging Atmosphere
+Our awesome internal developers built out our Camper Kudos system. This is a way to give students participation points, for them to thank their teammates for helping them, and encourage them to give feedback. We are building out a guide to explain in more detail how this works but you can use these to reward students who win challenges and even use it to pick who presents first adding some friendly competition.
+
+# Message to the Students
+If You Are Struggling With Class Material
+1. Ask your mentor for help. Our mentors are there to make sure you succeed! If there's a concept you don't quite get ask your mentor if you can talk to them real quick after class and they'll be happy to help walk through it with you
+2. Do some research on your own! There's a limitless pool of knowledge online if you search the right question and don't underestimate how much you can do on your own. If you're stuck, ask questions in the #general chat! We've got thousands of people happy to help 3. Hang in there! Concepts that seem overwhelming now, will become clear with just a little bit of time. Every year we see students really put things together towards the end of camp and deliver killer presentations. You are no exception, we can't wait to see what you build.
+
+# A DSI's Average Day at Summer Camp 2023
+Beginning of Day - 9:00 am | Self Prep: 30 Minutes to Prepare Alone.
+On your own, review the material for the day and come up with any feedback you have. Is it realistic? Where can we often lose students? What are the priorities?
+• Review student feedback from the previous day and make sure to develop a strategy to help any of your students who might be struggling.
+• Send any questions you have to the Discord channel or find someone who can help in Gather.
+Mandatory Team Sync-9:30 am | 30 Minutes to Prepare Together.
+• Each team meets at 9:30.
+• What is the objective for the day for lessons? Is it realistic?
+• What is the required project progress for the day? How can we change the day's structure to make sure this progress is met?
+• Brainstorm how to make the day as exciting and engaging as possible.
+• Where can we give Camper Kudos to students? Where can we incorporate discussion? Are there any applications of the material we are learning that would be cool to show students? • Update list of students that might need a bit more help or doing really well. Identify where students as a larger group are struggling so we can iterate on this next batch.
+• Any uncertainties about the day must be communicated to the group!
+10:00 am - 3:00 pm | Teach! | Lunch Break from 12:00-1:00
+• All DSIs must take attendance of their group.
+• This command will be used to mark absent students.
+• Activities marked [Group] in the will be completed as a large group. Typically these are lectures. • All other activities will be in small groups (DSI + 6 students) and are typically project or coding
+work
+• Give Camper Kudos to students that are contributing heavily to projects, leading/organizing the team, and participating in camp activities.
+• Keep an eye out for students who would make great developers and candidates for the Incubator program.
+• Get student feedback on the day's material (rating 1-5) via Discord (automatically sent at 2:50pm)
+3pm - EOD | Reflection and Project Work:
+• Add daily notes to your Curriculum Iteration document.
+• Come together with DSIs teaching your same course and discuss friction points + potential improvements as needed
+• Communicate any curriculum feedback, friction points, highlights, students who are excelling/ struggling. Identify how/who can fix these issues and communicate with
+• If there is any work from the day that needs to be wrapped up for summer camp, this can be done during this time.
+• The rest of the time you should be working on your projects.
+End of the Week
+• Meet with all DSIs on Friday after classes to discuss the week. Understand what worked and what didn't. What changes could be made to the curriculum? Who will own the implementation of these changes?
+• Take note of who the leaders in your group were: Who in your team was a leader? Who excelled in the programming tasks? Which students took initiative to understand the material?
+End of the Session
+• Submit model students for possible TT roles. Think of students you'd like to work with.
+• Reflect on the session with DSI's of your track
+• Address friction points & discussing how to improve the class
+• Assign specific fixes to be done
+• Communicate to the rest of the DSIs & Avengers.
+• Send out certificates to students using this guide. This is simple to do and must be done.
+
+# Final Project
+Data Science Interns need to be proactive when deciding on a dataset with their team. You need to communicate with your team that you should be working with a good amount of data and have a decent quality dataset. DSIs should do research on their team’s candidate datasets to confirm that that their dataset can be cleaned to learn the following:
+- 5-6 Visualizations
+- Perform EDA to understand patterns within the data. You should be able to reach a data-backed conclusion and summarize the key findings of your dataset using data trends in your final site.
+- Test these hypotheses using ML!
+Important: Talk to your team about whether they want to pursue supervised machine learning, and be sure to choose a fitting dataset for this. We will have activities for supervised machine learning provided so that they can still learn even if their dataset is not a good fit.**
