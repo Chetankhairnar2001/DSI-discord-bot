@@ -25,8 +25,9 @@ class MyClient(discord.Client):
                 print(command, user_message)
 
         if command == '/ai' or command == '/bot':
-            bot_response = chatgpt_response(prompt = user_message)
-            await message.channel.send(f"<@{message.author.id}> {bot_response}")
+            async with message.channel.typing():
+                bot_response = chatgpt_response(prompt = user_message)
+                await message.reply(f"{bot_response}")
 
 intents = discord.Intents.default()
 intents.message_content= True
