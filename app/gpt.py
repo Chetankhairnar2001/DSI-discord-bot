@@ -16,7 +16,8 @@ from langchain.llms import OpenAI
 from langchain.vectorstores import Chroma
 os.environ["OPENAI_API_KEY"] = os.getenv('CHATGPT_API_KEY')
 
-loader = TextLoader('data.txt')
+# loader = TextLoader('data.txt')
+loader = DirectoryLoader('./data', glob="**/*.txt", loader_cls=TextLoader, show_progress=True)
 index = VectorstoreIndexCreator().from_loaders([loader])
 
 def chatgpt_response(prompt):
