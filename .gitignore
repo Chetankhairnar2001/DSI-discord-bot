@@ -11,5 +11,5 @@ venv.bak/
 /site
 
 .vscode/
-
+**/__pycache__
 *.pyc
