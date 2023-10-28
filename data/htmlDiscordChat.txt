@@ -1,0 +1,54 @@
+#Error saying that m is not defined (in the line result = m.query(path))
+- Make a seperate python file for my query function and the response cleaning function. 
+The query function  just gets the response from huggingface and m.cleanResult changes it 
+from a json response format to a list. After that is change m.whatever to the name of 
+your function (without the m). 
+- Example code: 
+`if file and allowed_file(file.filename):
+            # sanitizes and locally saves the image while the session is running
+            filename = secure_filename(file.filename)
+            file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+            # inference api call returns string
+            genre_guess = query(f'uploads/{filename}')
+def query(filename):
+    with open(filename, "rb") as f:
+    etc...
+    return response.json()
+
+#Why we founded AI Camp?
+- Open doors, for our students, for you as well.
+
+#What does that mean by opening doors?
+- Education without an economical outcome is an empty promise. 
+The biggest problem of education is everything seems to work. 
+
+#Do you think our current curriculum is opening doors?
+- creating products yes, skills, perhaps needs to be updated, then get to hey, 
+you need to build products/projects that have relevant information for yourself and for your students. 
+The curriculum is only a guideline. Make some GPT related products! Show something amazing. 
+
+#What does this mean for me? Can this experience open doors for me?
+- Soft skills (leadership, planning, communication, epically if you are F1)
+hard skills (LLM stuff), right now it’s a critical time. 10X your abilities. 
+future opportunities. Gokul example. network. All our network etc. Recommendations etc.
+
+#Do I need to teach the exact curriculum?
+- The curriculum is a guide, not a bible.
+Feel free to adjust and make changes to the curriculum, especially in the next two weeks before teaching starts! 
+Teaching takes some getting used to, especially if you haven't done it before, 
+so if you're excited about the curriculum and the curriculum makes sense to you, 
+it'll make your experience all the more fun.
+
+#What does each team need?
+- Each team needs to elect one person to: Give a short elevator speech for their three-week track in 5-6 minutes. 
+Go through the schedule at a super high level (i.e., in the first half of the week the students will be working 
+on XYZ, in the second half the students will be working on ABC)
+
+#We are having Discord setup issues with AI Camp bot?
+- https://www.youtube.com/watch?v=pXq82AxH9NA
+
+#Is it okay if each student from a team present a part of their project in our final presentation? Or we want just a single presenter?
+- Yes, Try to everyone on your team to speak if possible.
+
+#Also, what's the total time allocated for a team to present?
+- Keep each presentation under 8 minutes.
