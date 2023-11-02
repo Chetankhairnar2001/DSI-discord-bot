@@ -1,4 +1,4 @@
- # Common problems with Google-Colab
+# Common problems with Google-Colab
 - Limited computation resources: You can also optimize your code to make it more memory-efficient and to utilize resources more effectively
 - Session timeouts: Regularly save your work and create backups. Periodically interact with the notebook to prevent session timeouts
 - Dependency management: You can install custom dependencies by using !pip install or !apt-get install commands within the notebook.
@@ -7,7 +7,7 @@
 - Limited support for hardware: If your project requires specific hardware, consider using other cloud computing platforms that offer the required hardware support.
 - Limited persistence: Save your work regularly and back up your data to prevent loss. You can also use cloud storage services like Google Drive, GitHub, or Dropbox for backup.
 
-# Reminders when using Google-colab
+# Reminders when using Google-Colab
 - Regularly save your work and create backups.
 - Use Google Drive for seamless data transfer
 - Mounting your Google Drive can make data sharing more convenient.
@@ -16,5 +16,15 @@
 # DSI responsibilities when teaching with Google-Colab
 - DSIs should make sure students are following along with the lesson and no student is stuck on a particular part of the lesson
 - If a student is having struggling to troubleshoot their problem ask them to share their screen and help them.
+- Remind students of their responsibilities that day and go through code they are struggling with.
+- Promoting a collaborative learning environment: Encouraging collaboration and knowledge sharing among students can foster a more engaging and dynamic learning experience. 
 
-
+# How to properly use Google-Colab:
+- Sign in: Sign in to your Google account if you're not already signed in. This step is necessary to save and access your notebooks on Google Drive.
+- Add and run code: To run a code cell, click the play button next to the cell, or use the keyboard shortcut Shift + Enter.
+- Install dependencies: If you need to install any Python libraries or dependencies, you can use the !pip install command directly in a code cell.
+- Upload data: You can upload data to Google Colab from your local machine or Google Drive. Use the file upload button provided in the Colab interface.
+- Save and share: Google Colab automatically saves your notebooks to your Google Drive. You can also download the notebook to your local machine. 
+- Collaborate: You can collaborate with others in real time by sharing your notebook with them. This feature allows multiple users to work on the same notebook simultaneously.
+- Utilize GPU/TPU: You can select the "Runtime" menu and choose "Change runtime type" to switch to a GPU or TPU runtime, which can be helpful for tasks such as deep learning.
+- Ensuring data security:The best practices for handling sensitive data and encourage them to use dummy or publicly available datasets whenever possible. 
