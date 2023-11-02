@@ -1,1 +1,20 @@
+ # Common problems with Google-Colab
+- Limited computation resources: You can also optimize your code to make it more memory-efficient and to utilize resources more effectively
+- Session timeouts: Regularly save your work and create backups. Periodically interact with the notebook to prevent session timeouts
+- Dependency management: You can install custom dependencies by using !pip install or !apt-get install commands within the notebook.
+- Data transfer limitations: Use Google Drive for seamless data transfer between your computer and the notebook. Mounting your Google Drive can make data sharing more convenient.
+- Collaboration limitations: Use version control systems like Git in combination with Google Colab. This allows for seamless collaboration and version management.
+- Limited support for hardware: If your project requires specific hardware, consider using other cloud computing platforms that offer the required hardware support.
+- Limited persistence: Save your work regularly and back up your data to prevent loss. You can also use cloud storage services like Google Drive, GitHub, or Dropbox for backup.
+
+# Reminders when using Google-colab
+- Regularly save your work and create backups.
+- Use Google Drive for seamless data transfer
+- Mounting your Google Drive can make data sharing more convenient.
+- Save your work regularly and back up your data to prevent loss.
+
+# DSI responsibilities when teaching with Google-Colab
+- DSIs should make sure students are following along with the lesson and no student is stuck on a particular part of the lesson
+- If a student is having struggling to troubleshoot their problem ask them to share their screen and help them.
+
 
