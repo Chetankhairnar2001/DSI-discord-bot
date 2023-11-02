@@ -1,0 +1,32 @@
+# Tough Classroom Situations
+- Two types of problematic students: Struggling/Disengaged and Disruptive.
+- Focus on creating a safe and engaging learning environment.
+- Challenge struggling students positively and encourage them to try again.
+- Do not try to convince disruptive students to like the subject.
+
+# Three Strike Policy:
+**Strike One:**
+- For struggling/disengaged students, identify their issues (shyness, pace, comprehension) and consider adjustments or group changes.
+- Offer help, such as changing groups, adjusting question frequency, or addressing their enthusiasm for the subject.
+- For disruptive students, inquire if they want to be there; offer a refund and removal if not.
+- Notify guardians if the issue persists, except for students who don't want to be there.
+
+**Strike Two:**
+- Notify @Richard Hsu and reach out to the parent and student via email with the refund policy.
+- Address the situation with additional context.
+
+**Strike Three:**
+- The student will be asked to leave without a refund.
+
+# If Students Have Vastly Different Skill Levels
+- Managing students with different skill levels can be challenging and beneficial. Strategies include:
+   1. Assign advanced students to explain material to the group.
+   2. Pair advanced students with learning students if they are good communicators.
+   3. Pair advanced students together and let them work on a more advanced task, while spending more time with pairs working to understand.
+
+# If There's Time To Fill (System Is Down, Students Went Through Quickly)
+1. Spend time adding details to the project plan. Identify advanced features that could enhance the final product, e.g., connecting to an API like Twitter, pulling live data, improving website design, etc., and implement them.
+2. Explore interesting AI content from the #ai-news discord channel or the provided page.
+
+# How To Gamify Camp And Facilitate An Engaging Atmosphere
+- Use the Camper Kudos system to give participation points to students, encourage teamwork, and add some friendly competition.

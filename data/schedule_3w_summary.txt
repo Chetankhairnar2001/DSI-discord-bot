@@ -1,0 +1,110 @@
+# 3 Week Schedule
+
+**Week 1:**
+
+**Monday: Get Started**
+- 10 AM - 11 AM: Welcome and Logistics, Get Hype Activity
+   - SLIDES: Welcome Slides, Explain Camper Kudos
+   - Get Hype Activity: Lead DSI introduces themselves and shows off their crash course project.
+   - Ask students about their goals and what they hope to get out of camp.
+   - Give camper kudos to those who participate in the discussion.
+
+- 11 AM - 12 PM: Set up Replit accounts and work on Intro to Python Activity.
+   - Activity: Intro to Python Jupyter Activity In Replit
+
+- 1 PM - 2 PM: Continue working on Intro to Python Activity.
+- 2 PM - 3 PM: Continue working on Intro to Python Activity until 2:30, Review for Kahoot before the competition!
+
+**Tuesday: Data Exploration**
+- 10 AM - 11 AM: Overview for the day, Intro to Data Analysis and Exploration
+   - Spend time completing Intro to Python Activity (if not complete yet) OR start with EDA Mini Activity.
+   - Materials: EDA Mini Project Jupyter Activity In COLAB
+   - Briefly share something from the COOL AI content page.
+
+- 11 AM - 12 PM: Have students set up their Replit account, continue Intro to Python Activity.
+- 1 PM - 2 PM: Continue working on Intro to Python Activity, Talk with students about their activities.
+- 2 PM - 3 PM: Continue working on Intro to Python Activity, Python competition — Kahoot Review!
+
+**Wednesday: Data Science Pipeline**
+- 10 AM - 11 AM: Overview for the day, Teach intro to DS pipeline.
+   - Give a demo: On how to find datasets if not done yet.
+- 11 AM - 12 PM: Have students set up their Replit account, work on Intro to Python Activity.
+- 1 PM - 2 PM: Continue working on Intro to Python Activity till finish.
+- 2 PM - 3 PM: Continue working on Intro to Python Activity until 2:30, Python competition.
+
+**Thursday: Project Planning**
+- 10 AM - 11 AM: Continue finding Datasets and talking about the project theme.
+   - Vote on your final dataset, and create an EDA activity for your team.
+- 11 AM - 12 PM: Teams should finish the product spec to a presentable quality for a demo.
+- 1 PM - 2 PM: Discuss product management and vote on the final dataset, Start planning your project with your team.
+- 2 PM - 3 PM: Project work time.
+
+**Friday: Preparing for Demos**
+- 10 AM - 11 AM: 1-week class demos and product spec demos.
+- 11 AM - 12 PM: Work on Intro to Python Activity, review for Kahoot before the competition.
+- 1 PM - 2 PM: Continue working on Intro to Python Activity until finish.
+- 2 PM - 3 PM: Work on product spec, experiment with APIs, and finish collecting data.
+
+**Week 2:**
+
+**Monday: Supervised Machine Learning**
+- 10 AM - 11 AM: Learn about the specifics of Supervised Machine Learning, Classification, Regression.
+- 11 AM - 12 PM: Talk about SKLearn workflow, SKLearn, and evaluation. Work on Linear Regression Activity.
+- 1 PM - 2 PM: Continue to work on Linear Regression Activity, develop descriptions of findings.
+- 2 PM - 3 PM: Challenge students to do their own COOL AI research on data science/web development topics and come to camp with a cool finding tomorrow.
+
+**Tuesday: Model Exploration**
+- 10 AM - 11 AM: Work on SKlearn Cancer Detection Activity, learn about models and evaluation metrics.
+- 11 AM - 12 PM: Work on SKlearn Cancer Detection Activity, analyze metrics and classification reports.
+- 1 PM - 2 PM: Work on SKlearn Cancer Detection Activity, prepare for project demos.
+- 2 PM - 3 PM: Demos!
+
+**Wednesday: Deep Learning and Research**
+- 10 AM - 11 AM: Learn how to include interactive graphs in your project using Plotly Charts And Components.
+- 11 AM - 12 PM: Add interactive elements to your site.
+- 1 PM - 2 PM: Introduce Flask concepts and run your template, DS Flask.
+- 2 PM - 3 PM: Continue to build your site, add interactive components, get to your first deployment point.
+
+**Thursday: Finishing Project Development**
+- 10 AM - 11 AM: Copy a bootstrap template, discuss and start implementing site features.
+- 11 AM - 12 PM: Go over deployment and github pages.
+- 1 PM - 2 PM: Modify the DS Repo, build an "About" page, begin building a presentation.
+- 2 PM - 3 PM: Project work time, wrap up site development, understand how the backend works.
+
+**Friday: Project Presentation and Reflection**
+- 10 AM - 11 AM: Finish website development, incorporate Gradio into your site.
+- 11 AM - 12 PM: Give camper kudos to students who present research, finish your first deployment.
+- 1 PM - 2 PM: Present your work and project status.
+- 2 PM - 3 PM: Demos!
+
+**Week 3:**
+
+**Monday: Website Development**
+- 10 AM - 11 AM: Setup for the week, learn HTML/CSS/Bootstrap through w3schools.
+- 11 AM - 12 PM: Continue working on basic website (HTML heading and paragraph).
+- 1 PM - 2 PM: Find and copy a bootstrap template, start implementing site features.
+- 2 PM - 3 PM: Continue creating your team's site and learning HTML.
+
+**Tuesday: Interactive Web Development**
+- 10 AM - 11 AM: Learn how to include interactive elements and data science webpage components.
+- 11 AM - 12 PM: Continue planning the website, aim for the first deployment.
+- 1 PM - 2 PM: Continue building the site, work on deployment to GitHub Pages.
+- 2 PM - 3 PM: Challenge students to do their COOL AI research.
+
+**Wednesday: Backend Development**
+- 10 AM - 11 AM: Give camper kudos to students who present research on data science/web development topics.
+- 11 AM - 12 PM: Introduce Flask concepts and run your template.
+- 1 PM - 2 PM: Continue adding content to the website.
+- 2 PM - 3 PM: Finish the website, make sure the backend works.
+
+**Thursday: Finalize and Present**
+- 10 AM - 11 AM: Finish up your site and prepare for the first deployment.
+- 11 AM - 12 PM: Deploy your site to GitHub Pages.
+- 1 PM - 2 PM: Build a presentation, finalize the project.
+- 2 PM - 3 PM: Project presentations and reflections.
+
+**Friday: Final Demos and Conclusion**
+- 10 AM - 11 AM: Present your work and project status.
+- 11 AM - 12 PM: Wrap up the course, Q&A with instructors, and finish the projects.
+- 1 PM - 2 PM: Wind down learnings from the week, play games, and boost morale.
+- 2 PM - 3 PM: Demos and TT nominations.
