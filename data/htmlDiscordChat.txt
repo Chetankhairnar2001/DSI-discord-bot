@@ -52,3 +52,31 @@ on XYZ, in the second half the students will be working on ABC)
 
 #Also, what's the total time allocated for a team to present?
 - Keep each presentation under 8 minutes.
+
+#What should I do if one of the students cannot see the discord channel for their class?
+- Assuming that the student has linked their discord account on app.ai-camp.dev, you should be able to use the `/class add-student` to address the issue.
+
+#Is it ok the meet with students' parents through zoom?
+- Yes. If a student's parents have contacted you wanting to know things such as the students progress and you are comfortable with contacting them, you may do so.
+
+#Guided Internship nominations
+- Write out information for all students
+
+#Promoting communication within groups 
+**if your group has some or all students who are shy**
+- Try splitting your group into smaller groups of 2-3 students, and shuffle students around for different activities
+- Give more talkative students leadership roles to have more efficient communication
+
+#Explaining programming concepts
+**if students are having trouble getting concepts**
+- for higher level concepts, try giving more technical explanations for the advanced students, and then explain the concept in a simpler and easier to understand way for the less experienced students
+- Let students struggle with problems for a bit, and then give solutions after
+
+#Different ways of Working with less experienced students
+**For coding activities:**
+- Start off working through coding problems as a group, and slowly allow them to be more independent and build confidence.
+- Go through the fundamentals necessary to understanding the problem and how it works, and then let students tackle it individually.
+- Split the students into smaller groups based on your assessment of the level of their coding experience to ensure students are not bored or left out.
+- Encourage students to privately message you questions or answers to the coding activity to prevent embarassment from not getting concepts right away.
+- Ensure each student has necessary support and guidance. Try having students who have completed the activity to share their screen and explain their problem-solving.
+- Pair experienced students with beginners so the novices can learn from their more knowledgeable peers.
