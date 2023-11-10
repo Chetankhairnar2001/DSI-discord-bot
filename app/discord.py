@@ -4,7 +4,7 @@ import os
 from app.gpt import chatgpt_response
 load_dotenv()
 discord_token = os.getenv('DISCORD_TOKEN')
-operational_channels = {"bot-testing"}
+operational_channels = os.getenv('OPERATIONAL_CHANNELS')
 
 class MyClient(discord.Client):
     async def on_ready(self):
