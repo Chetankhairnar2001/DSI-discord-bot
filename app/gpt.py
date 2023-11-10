@@ -14,14 +14,39 @@ from langchain.indexes import VectorstoreIndexCreator
 from langchain.indexes.vectorstore import VectorStoreIndexWrapper
 from langchain.llms import OpenAI
 from langchain.vectorstores import Chroma
+from langchain.prompts import SystemMessagePromptTemplate, PromptTemplate
 os.environ["OPENAI_API_KEY"] = os.getenv('CHATGPT_API_KEY')
 
 # loader = TextLoader('data.txt')
 loader = DirectoryLoader('./data', glob="**/*.txt", loader_cls=TextLoader, show_progress=True)
 index = VectorstoreIndexCreator().from_loaders([loader])
 
+chat = ChatOpenAI(temperature=0)
+
+prompt_template = """You are a helpful Discord bot that assists with questions about teaching or AI Camp.
+You receive a question {message} from a user, and know the answer is {answer}.
+Response to the user, personalizing the answer to their question. Don't make anthing up, and keep your responses as concise as possible.
+
+Response:"""
+
+prompt = PromptTemplate(
+    template=prompt_template, input_variables=["message", "answer"]
+)
+system_message_prompt = SystemMessagePromptTemplate(prompt=prompt)
+
 def chatgpt_response(prompt):
-    return index.query(prompt)
+    try:
+        generated_answer = index.query(prompt)
+        formatted_prompt = system_message_prompt.format(message=prompt, answer=generated_answer)
+
+        response = chat([formatted_prompt]).content
+        
+        print(f"Question: {prompt}\n-Answer: {generated_answer}\n-Response: {response}")
+        return response
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return "Sorry, I couldn't generate a response at the moment."
+
 
 ## earlier facing error in code below so commented u can try using the code since it could be more cost effective
 
