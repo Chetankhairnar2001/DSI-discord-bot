@@ -1,0 +1,98 @@
+# What is the purpose of the iteration board mentioned?
+-- The iteration board is used to collect suggestions and questions about the schedule. The goal is to personalize the teams and enhance the curriculum based on feedback from the participants.
+
+# How can participants find their team's schedule?
+-- Participants can find their team's schedule by going to the instructor teams page, looking up their names, and checking the corresponding team schedule.
+
+# How should participants handle problems or questions during the meeting?
+-- If participants have specific questions, they can message on Discord. Breakout rooms will be available, and the facilitator will join periodically to check progress.
+
+# How can participants access replay and documents?
+-- Participants can find replay links at the bottom of the schedule. Additionally, there are links to the replicate team for documents.
+
+# What is the plan for the next hour or so?
+-- The plan is to dive into the curriculum, create breakout rooms, and guide participants through their respective schedules and teams.
+
+# How should participants find out which track they are in?
+-- Participants can find their tracks by going to the training page, under schedules and team information, and checking the instructor teams page.
+
+# What should participants do if they encounter problems?
+-- If participants encounter problems, they should let the facilitator know. Breakout rooms will be created, and the facilitator will join to address any issues.
+
+# How is the schedule for the data science course next week discussed?
+-- The schedule for the data science course next week is discussed by going through the 2023 schedule, specifically under the data science section.
+
+# What advice is given to participants about Excel and programming?
+-- The advice is to ensure participants know basic technical skills, such as restarting a computer and navigating directories, before diving into more complex topics like programming.
+
+# How are teams formed for the DSI course next week?
+-- Teams for the DSI course next week are formed by going through the activities, discussions, and selecting areas of interest.
+
+# What is the plan for the next three weeks?
+-- The plan is to iterate on the schedules, address any problems, and ensure participants are in a good position for student success. There will be ongoing changes and improvements.
+
+# What is the message to lead DSIs and DSIs regarding their roles?
+-- Lead DSIs are expected to facilitate learning, cultivate a positive learning environment, and lead by example. DSIs are expected to lead their teams to success, share knowledge, and create an engaging learning environment.
+
+# What advice is given to struggling students?
+-- Struggling students are advised to ask their mentor for help, do independent research online, and stay motivated. Progress often occurs towards the end of the camp.
+
+# What should participants do if they have specific questions?
+-- If participants have specific questions, they should message on Discord. The facilitator will be available to address any questions.
+
+# What was the initial approach to scraping Google for vaporwave information, and what issue was encountered?
+--- The initial approach was to scrape Google for vaporwave information, but it resulted in a 50/50 split. This was frustrating.
+
+# How did the approach change, and what template was used to create a website?
+-- A bootstrap template was used to create a website focused on genre classification after the initial approach failed.
+
+# Can you share details about the synthwave example project?
+-- The synthwave example project was created as a heavy genre classification website that justified decisions and performed reasonably well.
+
+# During the meeting, participants were invited to share their project experiences. What challenges did one participant face in computer vision, and what was their project about?
+-- One participant faced challenges in transferring a model to a web page for a computer vision project related to classifying Air Jordan shoes.
+
+# What challenges did another participant face in their project related to APIs and flowers in the data science module?
+-- The participant faced challenges in understanding APIs and flowers, aiming to explore analysis and achieve higher accuracy with more time.
+
+# What feedback was shared about the crash course, especially regarding flash and web development?
+-- Participants found the crash course straightforward but faced challenges with flash and web development. Some had limited experience and found it confusing initially.
+
+# How did participants feel about the crash course's surprise factor, especially those with ML experience?
+-- Participants with ML experience found the crash course to be less challenging, while others appreciated the exposure to new skills and topics.
+
+# What suggestions were made for improving crash course projects if more time were available?
+-- Participants expressed interest in exploring more features, improving front-end design, and delving deeper into flash and web development.
+
+# What were the challenges and experiences shared by participants working on various projects, including computer vision and data science?
+-- Challenges included dealing with large datasets, debugging, using APIs, and working with time series data. Participants found the experience interesting and expressed a desire for more time to enhance their projects.
+
+# How did one participant address challenges in computer vision, specifically related to retinal disease detection?
+-- The participant worked on a project detecting retinal diseases, faced challenges with image accuracy, and focused on persevering through challenges for better results.
+
+# What insights were gained from a participant working on a cryptocurrency-related project and a fire detection project?
+-- The cryptocurrency project involved addressing time series data challenges, while the fire detection project aimed to identify the starting point of fires for more effective intervention.
+
+# How did a participant approach an NLP project focused on lyrics analysis, and what potential expansions were considered?
+-- The participant scraped lyrics data, focusing on analyzing nuanced and complicated lyrics. Potential expansions included adding insights and confidence levels to enhance user experience.
+
+# What challenges did a participant face with time series data and recommendations for students choosing such projects?
+-- Time series data challenges were encountered, emphasizing the importance of understanding neural networks and addressing memory and variance issues for effective solutions.
+
+# How did a participant approach a computer vision project related to disease identification in leaves, and what improvements were envisioned with more time?
+-- The participant focused on a computer vision project for disease identification in leaves. Improvements included providing more insights on diseases, confidence levels, and user utility.
+
+# What challenges did a participant face in stock market prediction using time series data, and what cautionary advice was shared?
+-- Challenges in stock market prediction involved dealing with time series data intricacies. Cautionary advice included being aware of complexities and addressing memory issues.
+
+# What were the experiences and challenges faced by a participant working on an NLP project related to song lyrics analysis?
+-- The participant faced challenges in handling vast music data and considering more expansive analysis. The crash course provided exposure to HTML, bootstrapping, and diverse skill integration.
+
+# How did participants find the crash course's introduction to Flash and web development, especially those with limited experience?
+-- Participants with limited experience found the introduction to Flash and web development initially confusing but manageable with available resources.
+
+#  What specific improvements were suggested for enhancing the crash course experience, especially in terms of API usage and flash?
+-- Suggestions included making API libraries more user-friendly, simplifying flash interactions, and providing resources for effective API and flash implementation.
+
+# How did a participant utilize fire accident photos for a project, and what additional features were considered?
+-- The participant used fire accident photos for a limited time project. Additional features considered were identifying the early stages of fires and providing more extensive insights.
