@@ -15,15 +15,28 @@ OpenAI GPT API Key
 
 ### Installation
 1. Clone the repository:
-  
+ 
+  - https://github.com/Chetankhairnar2001/DSI-discord-bot.git
 
-3. Install dependencies:
+2. Install dependencies:
+pip install python-dotenv
 
+- pip install openai
 
-5. Create a '.env' file in the root directory and add the following:
-DISCORD_TOKEN=your_discord_token_here
-CHATGPT_API_KEY=your_openai_gpt_api_key_here
-OPERATIONAL_CHANNELS=channel1,channel2
+- pip install langchain
+
+- pip install chromadb
+
+- pip install tiktoken
+
+- pip install discord.py
+
+3. Create a '.env' file in the root directory and add the following:
+- DISCORD_TOKEN=your_discord_token_here
+
+- CHATGPT_API_KEY=your_openai_gpt_api_key_here
+
+- OPERATIONAL_CHANNELS= {channel1,channel2}
 
 ## Usage:
 Run the bot by executing:
